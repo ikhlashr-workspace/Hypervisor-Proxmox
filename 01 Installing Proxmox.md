@@ -31,6 +31,8 @@ By default, **Proxmox VE does not provide built-in support for Wi-Fi**, as it is
 
 However, if you want to use Wi-Fi on Proxmox, you will need to configure it manually. A complete guide on **how to set up Wi-Fi on Proxmox VE** can be found on the following GitHub repository:  
 
-📌 **[Wi-Fi Configuration for Proxmox](https://github.com/your-repo/proxmox-wifi-setup)** 
+📌 **[[10 Additional Wifi Configuration]](https://github.com/ikhlashr-workspace/Hypervisor-Proxmox/blob/main/10%20Additional%20Wifi%20Configuration.md)** 
+
+
 Please note that using **Wi-Fi for virtualization and production servers is not recommended**, mainly due to **high latency, network instability, and lower throughput compared to Ethernet**. 🚀  
      
